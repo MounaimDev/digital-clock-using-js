@@ -1,0 +1,25 @@
+
+#clock {
+  font-size: 50px;
+  text-align: center;
+  color: #fff;
+  background-color: #000;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+#hours, #minutes, #seconds {
+  font-weight: bold;
+}
+
+#hours {
+  color: #ffa500;
+}
+
+#minutes {
+  color: #add8e6;
+}
+
+#seconds {
+  color: #00ff00;
+}
